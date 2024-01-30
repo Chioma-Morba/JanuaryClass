@@ -9,3 +9,21 @@ This is an example of a demo done using Example1_Data below
 ![](Example1_Data.JPG)
 
 Click [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+
+## Problem Statement
+The goal of this practice is to:
+
+- Familiarize myself with the repository user interface.
+- Build confidence structuring my portfolio.
+- Ensure good use of data analysis procedures.
+
+## Skills and Concept demonstrated:
+
+SQL (Select, alias, Views)
+
+- PowerBI concepts like:
+- creating columns for calculations for dates, time, and duration Creating key performance indicators (KPIs) and other business calculations, Developing general DAX calculations that 
+  deal with text and numbers, Performed advanced DAX calculations for solving statistical measures and other mathematical formulas Data Modelling, Measures, Navigation panes, filters, 
+  tooltips, buttons, bookmarks, Data Visualization
+
