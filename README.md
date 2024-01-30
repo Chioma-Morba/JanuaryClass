@@ -34,3 +34,6 @@ SQL (Select, alias, Views)
 
 The intelligence in PowerBI makes it such that tables are automatically joined by creating relationships with them. However, as someone who understands the dataset and wants to get specific insights and information. I had to create other relationships and measures to enable me. so I did another model. I created 7 dimension tables and 2 fact tables as I hoped for a Star Schema.
 
+                                                          Automated Model    |   Created Model
+                                                          :--------------:   |   :------------:
+                                                          ![](
