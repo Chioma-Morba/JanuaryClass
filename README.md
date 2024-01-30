@@ -27,3 +27,10 @@ SQL (Select, alias, Views)
   deal with text and numbers, Performed advanced DAX calculations for solving statistical measures and other mathematical formulas Data Modelling, Measures, Navigation panes, filters, 
   tooltips, buttons, bookmarks, Data Visualization
 
+![](Example2_Data.JPG)
+
+
+## Data Modelling:
+
+The intelligence in PowerBI makes it such that tables are automatically joined by creating relationships with them. However, as someone who understands the dataset and wants to get specific insights and information. I had to create other relationships and measures to enable me. so I did another model. I created 7 dimension tables and 2 fact tables as I hoped for a Star Schema.
+
