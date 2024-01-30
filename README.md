@@ -38,4 +38,8 @@ The intelligence in PowerBI makes it such that tables are automatically joined b
 :-----------------------: | :-----------------:
 ![](AutomatedModel_1.JPG) | ![](CreatedModel.JPG)
 
+
+## Limitation
+
+There is a limitation right? 😙
  
